@@ -1,6 +1,31 @@
 # LITA_SOLA
-## MY DATA ANALYSIS CLASS
-### Data visualization
+
+## MY DATA ANALYSIS CLASS : BASICS OF DATA ANALYSIS
+
+### EXCEL:
+EXCEL FUNCTIONS
+EXCEL INTERFACE AND NAVIGATION
+DATA ENTRY IN EXCEL
+MICROSOFT EXCEL FUNCTIONS 1
+MICROSOFT EXCEL FUNCTIONS 2
+MICROSOFT EXCEL FUNCTIONS 3
+Reporting With Pivot Tables And Charts 1
+Pivot Tables
+### SQL
+Introduction to SQL
+Writing SQL Queries 1
+Writing SQL Queries 2
+Writing SQL Queries 3
+SQL Clauses
+SQL Operators
+SQL Views
+SQL Casa When
+SQL II - Union VS Union All
+
+
+
+
+
 [Data visualization](#data-visualization)
 
 ### MY DATA ANALYSIS CLASS
