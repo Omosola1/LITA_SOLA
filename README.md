@@ -7,11 +7,11 @@
 
 [MICROSOFT EXCEL](#microsoft-excel)
 
-[STRUCTURED QUERY LANGUAGE (SQL)](#structured-query-language)
+[STRUCTURED QUERY LANGUAGE](#structured-query-language)
 
-[PORTFOLIO BUILDING WITH GITHUB](#potfolio-building-with-github)
+[PORTFOLIO BUILDING WITH GITHUB](#portfolio-building-with-github)
 
-[Power Bi](#power-bi)
+[POWER BI](#power-bi)
 
 
 ### BASICS OF DATA ANALYSIS
@@ -31,7 +31,7 @@ Data Cleaning, Analysis and Visualisation 🗃️
 - Reporting With Pivot Tables And Charts
 - Pivot Tables
 
-### STRUCTURED QUERY LANGUAGE (SQL)
+### STRUCTURED QUERY LANGUAGE
 ---
 SQL [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
  
@@ -50,7 +50,7 @@ Data Cleaning, Analysis and Visualisation 🗃️
 ---
 - Building up your portfolio as an Data Analyst.
 
-### Power Bi
+### POWER BI
 ---
 POWER BI[Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
