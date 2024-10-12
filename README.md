@@ -5,13 +5,13 @@
 
 [BASICS OF DATA ANALYSIS](#basics-of-data-analysis)
 
-[MICROSOFT EXCEL](microsoft-excel)
+[MICROSOFT EXCEL](#microsoft-excel)
 
-[STRUCTURED QUERY LANGUAGE (SQL)](structured-query-language)
+[STRUCTURED QUERY LANGUAGE (SQL)](#structured-query-language)
 
-[PORTFOLIO BUILDING WITH GITHUB](potfolio-building-with-github)
+[PORTFOLIO BUILDING WITH GITHUB](#potfolio-building-with-github)
 
-[Power Bi](power-bi)
+[Power Bi](#power-bi)
 
 
 ### BASICS OF DATA ANALYSIS
