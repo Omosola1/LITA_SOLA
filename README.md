@@ -3,12 +3,11 @@
 ## MY DATA ANALYSIS CLASS 
 ---
 
-
 [BASICS OF DATA ANALYSIS](#basics-of-data-analysis)
 
 [MICROSOFT EXCEL](microsoft-excel)
 
-[STRUCTURED QUERY LANGUAGE](structured-query-language)
+[STRUCTURED QUERY LANGUAGE (SQL)](structured-query-language)
 
 [PORTFOLIO BUILDING WITH GITHUB](potfolio-building-with-github)
 
