@@ -48,13 +48,13 @@ Data Cleaning, Analysis and Visualisation 🗃️
 - SQL Case When
 - SQL II - Union VS Union All
 
-### PORTFOLIO BUILDING WITH GITHUB
+### PORTFOLIO BUILDING WITH GITHUB 🧺
 ---
 - Building up your portfolio as an Data Analyst.
 
 ### POWER BI
 ---
-POWER BI[Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+POWER BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 Data Cleaning, Analysis and Visualisation 🗃️
 - Power BI Fundamentals
@@ -73,7 +73,7 @@ omo_sola@yahoo.com
 ```
 
 
-### Data visualization 🖼️
+### DATA VISUALIZATION 🖼️
 ![OMOSH 3](https://github.com/user-attachments/assets/a8f1f662-ada4-4908-b9a6-37a0be7377ed)
 
 TABLE
