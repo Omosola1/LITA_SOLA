@@ -13,6 +13,8 @@
 
 [POWER BI](#power-bi)
 
+[TABLE](#table)
+
 
 ### BASICS OF DATA ANALYSIS
 - Introduction to Data Analysis.
@@ -74,6 +76,8 @@ omo_sola@yahoo.com
 ### Data visualization 🖼️
 ![OMOSH 3](https://github.com/user-attachments/assets/a8f1f662-ada4-4908-b9a6-37a0be7377ed)
 
+TABLE
+---
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
