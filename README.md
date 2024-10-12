@@ -2,34 +2,37 @@
 
 ## MY DATA ANALYSIS CLASS 
 
-## BASICS OF DATA ANALYSIS
+### BASICS OF DATA ANALYSIS
 
-### MICROSOFT EXCEL:
-Excel Functions 
-EXCEL INTERFACE AND NAVIGATION
-DATA ENTRY IN EXCEL
-Microsoft Excel Functions 1
-Microsoft Excel Functions 2
-Microsoft Excel Functions 3
-Reporting With Pivot Tables And Charts 1
-Pivot Tables
+### MICROSOFT EXCEL
+- Excel Functions
+- Excel interface and Navigation
+- Data entry in Excel
+- Microsoft Excel Functions 1
+- Microsoft Excel Functions 2
+- Microsoft Excel Functions 3
+- Reporting With Pivot Tables And Charts
+- Pivot Tables
 
 ### SQL
-Introduction to SQL
-Writing SQL Queries 1
-Writing SQL Queries 2
-Writing SQL Queries 3
-SQL Clauses
-SQL Operators
-SQL Views
-SQL Casa When
+Introduction to SQL,
+Writing SQL Queries 1,
+Writing SQL Queries 2,
+Writing SQL Queries 3,
+SQL Clauses,
+SQL Operators,
+SQL Views,
+SQL Case When,
 SQL II - Union VS Union All
 
 ### PORTFOLIO BUILDING WITH GITHUB
 Building up your portfolio as an Data Analyst
 
 ### POWER BI
-Power BI
+Power BI Fundamentals,
+Data Entry and Connecting to Data sources,
+Power Query for Data Transformation
+
 
 
 
