@@ -1,11 +1,13 @@
 # LITA_SOLA
 
 ## MY DATA ANALYSIS CLASS 
+---
 
 ### BASICS OF DATA ANALYSIS
 - Introduction to Data Analysis.
 
 ### MICROSOFT EXCEL [Download Here](https://www.microsoft.com)
+---
 Data Cleaning, Analysis and Visualisation.
 - Excel Functions
 - Excel interface and Navigation
@@ -16,7 +18,9 @@ Data Cleaning, Analysis and Visualisation.
 - Reporting With Pivot Tables And Charts
 - Pivot Tables
 
-### SQL
+### STRUCTURED QUERY LANGUAGE (SQL)
+---
+Data Cleaning, Analysis and Visualisation.
 - Introduction to SQL
 - Writing SQL Queries 1
 - Writing SQL Queries 2
@@ -28,9 +32,12 @@ Data Cleaning, Analysis and Visualisation.
 - SQL II - Union VS Union All
 
 ### PORTFOLIO BUILDING WITH GITHUB
+---
 - Building up your portfolio as an Data Analyst.
 
 ### POWER BI
+---
+Data Cleaning, Analysis and Visualisation.
 - Power BI Fundamentals
 - Data Entry and Connecting to Data sources
 - Power Query for Data Transformation
@@ -40,6 +47,9 @@ Data Cleaning, Analysis and Visualisation.
 
 ### MY DATA ANALYSIS CLASS
 ADDRESS  Number 35 Olajesu street Agodo ,Ikotun. Lagos.
+
+``` Email 
+omo_sola@yahoo.com
 ```
 PICTURES
 ![OMOSH 2](https://github.com/user-attachments/assets/671294b7-5b5a-4ef7-8c2e-7f6af71967ab)
