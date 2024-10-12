@@ -1,7 +1,7 @@
 # LITA_SOLA
 
 ## MY DATA ANALYSIS CLASS 
-Introduction to Data Analysis
+Introduction to Data Analysis.
 
 ### BASICS OF DATA ANALYSIS
 
@@ -20,23 +20,19 @@ Introduction to Data Analysis
 - Writing SQL Queries 1
 - Writing SQL Queries 2
 - Writing SQL Queries 3
-- SQL Clauses,
-- SQL Operators,
-- SQL Views,
-- SQL Case When,
+- SQL Clauses
+- SQL Operators
+- SQL Views
+- SQL Case When
 - SQL II - Union VS Union All
 
 ### PORTFOLIO BUILDING WITH GITHUB
-- Building up your portfolio as an Data Analyst
+- Building up your portfolio as an Data Analyst.
 
 ### POWER BI
-Power BI Fundamentals,
-Data Entry and Connecting to Data sources,
-Power Query for Data Transformation
-
-
-
-
+- Power BI Fundamentals
+- Data Entry and Connecting to Data sources
+- Power Query for Data Transformation
 
 
 [Data visualization](#data-visualization)
