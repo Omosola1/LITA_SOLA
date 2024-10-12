@@ -1,6 +1,7 @@
 # LITA_SOLA
 
 ## MY DATA ANALYSIS CLASS 
+Introduction to Data Analysis
 
 ### BASICS OF DATA ANALYSIS
 
@@ -15,18 +16,18 @@
 - Pivot Tables
 
 ### SQL
-Introduction to SQL,
-Writing SQL Queries 1,
-Writing SQL Queries 2,
-Writing SQL Queries 3,
-SQL Clauses,
-SQL Operators,
-SQL Views,
-SQL Case When,
-SQL II - Union VS Union All
+- Introduction to SQL
+- Writing SQL Queries 1
+- Writing SQL Queries 2
+- Writing SQL Queries 3
+- SQL Clauses,
+- SQL Operators,
+- SQL Views,
+- SQL Case When,
+- SQL II - Union VS Union All
 
 ### PORTFOLIO BUILDING WITH GITHUB
-Building up your portfolio as an Data Analyst
+- Building up your portfolio as an Data Analyst
 
 ### POWER BI
 Power BI Fundamentals,
