@@ -11,7 +11,7 @@
 
 [PORTFOLIO BUILDING WITH GITHUB](potfolio-building-with-github)
 
-[POWER BI](power-bi)
+[Power Bi](power-bi)
 
 
 ### BASICS OF DATA ANALYSIS
@@ -50,7 +50,7 @@ Data Cleaning, Analysis and Visualisation 🗃️
 ---
 - Building up your portfolio as an Data Analyst.
 
-### POWER BI 
+### Power Bi
 ---
 POWER BI[Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
