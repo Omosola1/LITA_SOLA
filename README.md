@@ -1,16 +1,19 @@
 # LITA_SOLA
 
-## MY DATA ANALYSIS CLASS : BASICS OF DATA ANALYSIS
+## MY DATA ANALYSIS CLASS 
 
-### EXCEL:
-EXCEL FUNCTIONS
+## BASICS OF DATA ANALYSIS
+
+### MICROSOFT EXCEL:
+Excel Functions 
 EXCEL INTERFACE AND NAVIGATION
 DATA ENTRY IN EXCEL
-MICROSOFT EXCEL FUNCTIONS 1
-MICROSOFT EXCEL FUNCTIONS 2
-MICROSOFT EXCEL FUNCTIONS 3
+Microsoft Excel Functions 1
+Microsoft Excel Functions 2
+Microsoft Excel Functions 3
 Reporting With Pivot Tables And Charts 1
 Pivot Tables
+
 ### SQL
 Introduction to SQL
 Writing SQL Queries 1
@@ -21,6 +24,12 @@ SQL Operators
 SQL Views
 SQL Casa When
 SQL II - Union VS Union All
+
+### PORTFOLIO BUILDING WITH GITHUB
+Building up your portfolio as an Data Analyst
+
+### POWER BI
+Power BI
 
 
 
