@@ -1,11 +1,11 @@
 # LITA_SOLA
 
 ## MY DATA ANALYSIS CLASS 
-Introduction to Data Analysis.
 
 ### BASICS OF DATA ANALYSIS
+- Introduction to Data Analysis.
 
-### MICROSOFT EXCEL
+### MICROSOFT EXCEL : Data Cleaning, Analysis and Visualisation.
 - Excel Functions
 - Excel interface and Navigation
 - Data entry in Excel
