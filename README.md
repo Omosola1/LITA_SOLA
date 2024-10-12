@@ -2,6 +2,7 @@
 
 ## MY DATA ANALYSIS CLASS 
 ---
+ [BASICS OF DATA ANALYSIS](#basics-of-data-analysisis)
 
 ### BASICS OF DATA ANALYSIS
 - Introduction to Data Analysis.
