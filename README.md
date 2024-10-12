@@ -6,9 +6,11 @@
 ### BASICS OF DATA ANALYSIS
 - Introduction to Data Analysis.
 
-### MICROSOFT EXCEL [Download Here](https://www.microsoft.com)
+### MICROSOFT EXCEL
 ---
-Data Cleaning, Analysis and Visualisation.
+EXCEL [Download Here](https://www.microsoft.com)
+ 
+Data Cleaning, Analysis and Visualisation 🗃️
 - Excel Functions
 - Excel interface and Navigation
 - Data entry in Excel
@@ -20,7 +22,9 @@ Data Cleaning, Analysis and Visualisation.
 
 ### STRUCTURED QUERY LANGUAGE (SQL)
 ---
-Data Cleaning, Analysis and Visualisation.
+SQL [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+ 
+Data Cleaning, Analysis and Visualisation 🗃️
 - Introduction to SQL
 - Writing SQL Queries 1
 - Writing SQL Queries 2
@@ -35,9 +39,11 @@ Data Cleaning, Analysis and Visualisation.
 ---
 - Building up your portfolio as an Data Analyst.
 
-### POWER BI
+### POWER BI 
 ---
-Data Cleaning, Analysis and Visualisation.
+POWER BI[Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+Data Cleaning, Analysis and Visualisation 🗃️
 - Power BI Fundamentals
 - Data Entry and Connecting to Data sources
 - Power Query for Data Transformation
@@ -45,20 +51,19 @@ Data Cleaning, Analysis and Visualisation.
 
 [Data visualization](#data-visualization)
 
-### MY DATA ANALYSIS CLASS
-ADDRESS  Number 35 Olajesu street Agodo ,Ikotun. Lagos.
+CONTACT ADDRESS:
+Number 35 Olajesu street Agodo ,Ikotun. Lagos 🏠
 
+📧
 ``` Email 
 omo_sola@yahoo.com
 ```
-PICTURES
-![OMOSH 2](https://github.com/user-attachments/assets/671294b7-5b5a-4ef7-8c2e-7f6af71967ab)
-OMOSH 2.jpg
-![OMOSH 3](https://github.com/user-attachments/assets/ec8770f7-956a-4f19-8ec4-e3a5e8a95abf)
 
-### Data visualization
+
+### Data visualization 🖼️
 ![OMOSH 3](https://github.com/user-attachments/assets/a8f1f662-ada4-4908-b9a6-37a0be7377ed)
-😆
+
+
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
