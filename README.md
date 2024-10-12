@@ -4,7 +4,7 @@
 [Data visualization](#data-visualization)
 
 ### MY DATA ANALYSIS CLASS
-ADDRESS ```ADDRESS```
+ADDRESS  Number 35 Olajesu street Agodo ,Ikotun. Lagos.
 ```
 PICTURES
 ![OMOSH 2](https://github.com/user-attachments/assets/671294b7-5b5a-4ef7-8c2e-7f6af71967ab)
