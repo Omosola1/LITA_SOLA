@@ -74,7 +74,7 @@ omo_sola@yahoo.com
 
 
 ### DATA VISUALIZATION 🖼️
-![OMOSH 3](https://github.com/user-attachments/assets/a8f1f662-ada4-4908-b9a6-37a0be7377ed)
+
 
 TABLE
 ---
